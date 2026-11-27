@@ -1,4 +1,4 @@
-#Cara Jalanin
+#Cara Menjalankan
 
 Clone repo ini ke C:\xampp\htdocs\
 import musik.sql ke phpMyadmin (xampp)
